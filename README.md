@@ -1,4 +1,4 @@
-# Wordle Clone README
+# Wordle
 
 Welcome to the Wordle Clone! This project is a web-based word-guessing game inspired by the popular game Wordle. The goal is to guess the correct five-letter word within six attempts. Each guess provides feedback to help you deduce the correct word.
 
